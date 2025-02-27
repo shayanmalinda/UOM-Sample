@@ -1,5 +1,5 @@
 import ballerina/io;
 
 public function main() {
-    io:println("Hello, University of Moratuwa - IT!");
+    io:println("Hello, University of Moratuwa - IT and IT&M!");
 }
